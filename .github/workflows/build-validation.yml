@@ -32,4 +32,5 @@ jobs:
       run: dotnet restore
       
     - name: Build
+      working-directory: ./ConsoleApp
       run: dotnet build --configuration Release --no-restore
