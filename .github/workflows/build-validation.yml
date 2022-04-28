@@ -28,6 +28,7 @@ jobs:
         dotnet-version: ${{ env.DOTNET_VERSION }}
 
     - name: Install dependencies
+      working-directory: ./ConsoleApp
       run: dotnet restore
       
     - name: Build
