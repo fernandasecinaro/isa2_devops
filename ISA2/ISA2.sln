@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISA2", "ISA2\ISA2.csproj", "{C8A1C84B-3DB1-441D-8AC1-723B1F58A4EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISA2", "ISA2\ISA2.csproj", "{94374AEB-F88C-4F95-B6A1-3DB67DE2F97B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C8A1C84B-3DB1-441D-8AC1-723B1F58A4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C8A1C84B-3DB1-441D-8AC1-723B1F58A4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C8A1C84B-3DB1-441D-8AC1-723B1F58A4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C8A1C84B-3DB1-441D-8AC1-723B1F58A4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94374AEB-F88C-4F95-B6A1-3DB67DE2F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94374AEB-F88C-4F95-B6A1-3DB67DE2F97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94374AEB-F88C-4F95-B6A1-3DB67DE2F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94374AEB-F88C-4F95-B6A1-3DB67DE2F97B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
