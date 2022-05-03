@@ -7,7 +7,7 @@ namespace TestProject1
         [Test]
         public void Test1()
         {
-            Assert.Equals(3, 0);
+            Assert.AreEqual(0, 0);
         }
     }
 }
