@@ -38,6 +38,3 @@ jobs:
     - name: Test
       working-directory: ./ISA2
       run: dotnet test --no-restore --verbosity normal
-      
-    - name: Codecov
-      uses: codecov/codecov-action@v1.5.2
